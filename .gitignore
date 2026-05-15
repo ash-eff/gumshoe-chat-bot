@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+message-history.json
+.claude/
